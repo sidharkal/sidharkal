@@ -15,4 +15,4 @@ I'm Siddheshwar Harkal, a Programmer Analyst currently working at Cognizant on c
 - 🤖  Solving complex problems with AI
 - 💻  Building stuff
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidharkal&show_icons=true&theme=radical)
+![Siddheswar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidharkal&show_icons=true&theme=radical)
