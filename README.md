@@ -1,6 +1,6 @@
 ### Hello there!
 
-I'm Siddheshwar Harkal, a Programmer Analyst currently working at Cognizant on computer vision and deep learning
+I'm Siddheshwar Harkal, a Programmer Analyst currently working at Cognizant on computer vision and deep learning and my area of intrests is anomaly detection, technical diagnostics, time-series analysis, industrial data processing, predictive analytics.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidharkal&label=Profile%20views&color=0e75b6&style=flat" alt="sidharkal" /> </p>
 
