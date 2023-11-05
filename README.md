@@ -4,7 +4,8 @@ I'm Siddheshwar Harkal, a Programmer Analyst currently working at Cognizant on c
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidharkal&label=Profile%20views&color=0e75b6&style=flat" alt="sidharkal" /> </p>
 
-- Programmer Analyst, at [Cognizant](https://www.cognizant.com/)
+- Data Scientist at LTIMindtree, at [Cognizant](https://www.ltimindtree.com/)
+- Former Programmer Analyst [Cognizant](https://www.cognizant.com/)
 - Former Data Science Intern at [Datatheta](https://www.datatheta.com/) 
 - Former Junior Engineer at [Bosch](https://www.bosch.com/) 
 
